@@ -6,6 +6,6 @@ Left nodes will be having values less than the root nodes, right trees will be h
 
 **Exposed functions**
 
--insert
--delete
+- insert
+- delete
 
