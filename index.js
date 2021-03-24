@@ -99,3 +99,12 @@ class TrinaryTree {
     }
   }
 }
+
+const tree = new TrinaryTree();
+tree.insert(5);
+tree.insert(4);
+tree.insert(5);
+tree.remove(4);
+tree.remove(5);
+
+console.log(tree);
