@@ -38,7 +38,7 @@ class TrinaryTree {
       }
     }
   }
-  remove(value) {
+  delete(value) {
     if (!this.root) {
       return false;
     }
